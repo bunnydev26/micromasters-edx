@@ -1,0 +1,9 @@
+/home/amit/workspace/micromasters-edx/python_data_science/Week-2-UNIXDataFiles
+total 5476
+-rw-rw-r-- 1 amit amit      64 Feb  7 22:57 fruits-sorted.txt
+-rw-r--r-- 1 amit amit      64 Mar 31  2017 fruits.txt
+-rw-rw-r-- 1 amit amit      49 Feb  7 23:02 fruits-uniqe.txt
+-rw-r--r-- 1 amit amit       0 Apr 26  2017 Icon
+drwxrwxr-x 2 amit amit    4096 Feb  7 08:15 learn_unix
+-rw-rw-r-- 1 amit amit      79 Feb  7 23:07 out.txt
+-rw-r--r-- 1 amit amit 5583442 Apr 11  2017 shakespeare.txt
